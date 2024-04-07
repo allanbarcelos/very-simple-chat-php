@@ -1,0 +1,24 @@
+body {
+    padding-top: 5vw;
+    padding-left: 25vw;
+    padding-right: 25vw;
+
+}
+
+#chat-box {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#message {
+    width: 70%;
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
